@@ -1,0 +1,8 @@
+title: "Your Blog Name"
+description: "Thoughts on data science, tech, and more"
+author: "Puspita"
+url: "https://yourusername.github.io"
+theme: minima          # or any Jekyll theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
